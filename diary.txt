@@ -1,2 +1,0 @@
-0: Täna oli ilus ilm.::::1: Õppisin programmeerimist.::::2: SRP on tegelikult väga loogiline.
-3
